@@ -1,6 +1,6 @@
 # Dicee 🎲
 
-Dice flutter app to roll 2 dice cubes.
+Dice flutter app to roll dice cubes.
 
 
 ## What you will learn
